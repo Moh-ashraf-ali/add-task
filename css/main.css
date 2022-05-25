@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+.card{
+    background-color: #333;
+    color: white;
+    font-weight: 600;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
+.none{
+    display: none;
+}
+i{
+    float: right;
+    color: red;
+    font-size: 25px;
+}
+.labelNum{
+    float: left;
+
+}
+.ccc{
+    overflow: auto;
+}
+.checked{
+    text-decoration :line-through;
+    background-color: rgba(0,0,0,.4) !important;
+}
+.block{
+    display: block;
+    color: black;
+}
